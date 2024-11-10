@@ -1,1 +1,1 @@
---platform=arm32 youshandefeiyang/allinone
+--platform=armv7 youshandefeiyang/allinone
