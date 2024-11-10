@@ -1,1 +1,1 @@
---platform=linux/arm32 youshandefeiyang/allinone
+--platform=arm32 youshandefeiyang/allinone
